@@ -89,3 +89,10 @@ A Machine Learning project to detect duplicate questions using **Quora Question 
 ├── static/                  # CSS / Images (if any)
 ├── utils.py                 # Preprocessing and feature engineering functions
 └── README.md                # Project documentation
+
+
+## 📬 Contact
+
+If you have any suggestions or questions, feel free to reach out via LinkedIn or open an issue!
+```bash
+## ⭐ Don't forget to give this repo a star if you found it useful!
