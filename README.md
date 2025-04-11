@@ -73,7 +73,9 @@ A Machine Learning project to detect duplicate questions using **Quora Question 
 
 ## 📸 Screenshots of the web app interface
 
-![Screenshot (1054)](https://github.com/user-attachments/assets/417c9a19-2b82-4a29-b548-f58717cfd8bb)
+![Screenshot (1055)](https://github.com/user-attachments/assets/3febdcf4-b3a9-46a1-aff5-13355e899db3)
+![Screenshot (1056)](https://github.com/user-attachments/assets/1178def8-47e0-46ff-8e39-1568b6fe6945)
+
 
 
 
