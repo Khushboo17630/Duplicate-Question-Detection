@@ -78,7 +78,8 @@ A Machine Learning project to detect duplicate questions using **Quora Question 
 
 <b> 2.After entering question</b><br>
 ![Screenshot (1061)](https://github.com/user-attachments/assets/faac1c08-a4ba-44df-a38d-663e96d24501)
-![Screenshot (1062)](https://github.com/user-attachments/assets/48af96fa-b096-4d46-b3c8-e67773111001).
+![Screenshot (1064)](https://github.com/user-attachments/assets/9a10349d-9444-4e6d-b6a6-677a0f9daa66)
+
 
 
 
