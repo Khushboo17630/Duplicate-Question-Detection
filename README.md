@@ -72,16 +72,13 @@ A Machine Learning project to detect duplicate questions using **Quora Question 
 ---
 
 ## 📸 Screenshots of the web app interface
-<p align="center"><b>1. Screenshot before entering question<br>
-![Screenshot (1060)](https://github.com/user-attachments/assets/a3d8f489-2b07-43c3-9444-79087788e31b)
+<b>1. Screenshot before entering question</><br>
+![Screenshot (1060)](https://github.com/user-attachments/assets/97b5648f-72fb-444b-afb4-b65989b98359)
 
-After entering question</b></p>
+
+<b> 2.After entering question</b><br>
 ![Screenshot (1061)](https://github.com/user-attachments/assets/faac1c08-a4ba-44df-a38d-663e96d24501)
-
-<p align="center"><b>2. Screenshot of predicting duplicate question</b></p>
-
-<p align="center"><b>3. Screenshot of predicting the non duplicate questions</b></p>
-![Screenshot (1062)](https://github.com/user-attachments/assets/48af96fa-b096-4d46-b3c8-e67773111001)
+![Screenshot (1062)](https://github.com/user-attachments/assets/48af96fa-b096-4d46-b3c8-e67773111001).
 
 
 
